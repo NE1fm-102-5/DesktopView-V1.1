@@ -1,0 +1,12 @@
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\bin\Debug\DesktopView.exe.config
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\bin\Debug\DesktopView.exe
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\bin\Debug\DesktopView.pdb
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\bin\Debug\DesktopView.xml
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.Form1.resources
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.Resources.resources
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.SplashScreen1.resources
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.submitmsgbrd.resources
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\NE1fm Desktop Manager.vbproj.GenerateResource.Cache
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.exe
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.xml
+E:\Visual Studio Files\Projects\DesktopView\DesktopView\obj\Debug\DesktopView.pdb
